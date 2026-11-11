@@ -1,0 +1,29 @@
+# ==============================================================================
+# Cloudflare Pages HTTP Response Headers Configuration
+# ==============================================================================
+
+# 1. Affiliate Redirect Paths - Never index, never pass PageRank
+/go/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+
+# 2. Global Security Headers
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# 3. Static Assets (Vite hashed assets - Cache for 1 year)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 4. Images & Media
+/images/*
+  Cache-Control: public, max-age=2592000
+
+# 5. HTML files - Always revalidate to guarantee instant content updates
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate

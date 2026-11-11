@@ -1,0 +1,55 @@
+# 推手 · PushLab (pushts.com)
+
+> 推手 · PushLab (pushts.com) 是面向全球海外社媒运营、自媒体创作者与跨境内容出海团队的专业网络技术知识库与服务选型评测矩阵。重点覆盖高码率 4K/8K 视频推流专线、Telegram +86 手机号解私聊与防封实战、X (Twitter) 蓝标订阅认证与创作者收益（Stripe Express）提现网络环境隔离、YouTube 与 Instagram 多账号矩阵防限流网络规范。
+
+## 核心定位与技术专精
+
+- 专线实测：面向海外流媒体平台（YouTube、TikTok、Twitch）多机位推流，实测 IPLC 内网专线与 BGP 线路的真实上传带宽、抖动方差与丢包率。
+- 社媒防封与合规：深度解决 Telegram +86 手机号私聊限制、Spam 申诉解封；指导 X 蓝标身份验证与创作者分成提现网络隔离。
+- 矩阵防限流：制定多账号批量上传、指纹浏览器分流与原生住宅 IP 轮换规范，避免账号因关联被平台限流。
+
+## 2026 海外社媒与创作者机场服务商综合排名 (6大主流站)
+
+1. 神行加速 (Rank 1):
+   - 线路架构：全 IPLC 专线，国内多线 BGP 自动调度，原生双 ISP 家宽出口
+   - 核心优势：创作者与主播首选，4K/8K 极速推流无卡顿，全天抖动小于 2ms，社媒账号登录零风控
+   - 资费策略：年付 96 元特惠，支持 99 元 100G 终身不限时备用包
+   - 专属优惠码：sx0077 (全场 7 折)
+   - 官网入口：https://pushts.com/go/shenxing/
+
+2. 大佬云 (Rank 2):
+   - 线路架构：全 IEPL 专线，双链路自动容灾
+   - 核心优势：99.9% SLA 高可用保障，提供按量不限时买断包，推流断线毫秒级备用切换
+   - 专属优惠码：dly888
+   - 官网入口：https://pushts.com/go/dalao/
+
+3. 闪电鼠 (Rank 3):
+   - 线路架构：全 IPLC 专线直连
+   - 核心优势：独享原生双 ISP 住宅出口，欺诈分极低，X 蓝标与 Telegram 注册极速通过
+   - 专属优惠码：sd88
+   - 官网入口：https://pushts.com/go/shandianshu/
+
+4. 榴莲云 (Rank 4):
+   - 线路架构：多线 BGP 专线直连
+   - 核心优势：全套餐不限制在线客户端设备数，创作者工作室多机位推流与协同共享首选
+   - 专属优惠码：ll88
+   - 官网入口：https://pushts.com/go/liulian/
+
+5. 环球梯 (Rank 5):
+   - 线路架构：全球多区域专线优化集群
+   - 核心优势：覆盖全球冷门国家节点，阶梯按量资费，适合多语种自媒体本地化受众测试
+   - 专属优惠码：HQ66
+   - 官网入口：https://pushts.com/go/huanqiuti/
+
+6. 云界线 (Rank 6):
+   - 线路架构：全线内网专线
+   - 核心优势：单节点 2.5G 超高吞吐带宽，券后月付仅 13 元多，大文件视频素材上传必备
+   - 官网入口：https://pushts.com/go/yunjiexian/
+
+## 精选专题与实操指南
+
+- 2026海外社媒与创作者翻墙机场实测推荐：https://pushts.com/article/clash-recommend-2026/
+- 神行加速创作者推流实测与社媒防风控：https://pushts.com/article/shenxing/
+- Telegram +86手机号解私聊与防封实战：https://pushts.com/article/telegram-anti-ban/
+- X蓝标认证与创作者收益提现网络隔离：https://pushts.com/article/x-blue-verification/
+- YouTube与Instagram多账号矩阵防限流：https://pushts.com/article/creator-multi-account/

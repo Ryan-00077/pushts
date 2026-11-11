@@ -1,0 +1,1118 @@
+[
+  {
+    "navigate_id": 30,
+    "navigate_name": "专属推荐",
+    "list": [
+      {
+        "column_id": 42,
+        "column_name": "综合",
+        "card_list": [
+          {
+            "tag": "9折",
+            "name": "SaleSmartly",
+            "description": "在线客服系统，跨境一站式沟通",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/XcbSPa_logo.png",
+            "type": "link",
+            "path_url": "salesmartly",
+            "redirect_link": "https://www.salesmartly.com/",
+            "local_logo": "/images/tools/salesmartly.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/XcbSPa_logo.png"
+          },
+          {
+            "tag": "95折",
+            "name": "DuoPlus",
+            "description": "多账号安全管理与隐私保护浏览器",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/5bbY6m_36x36.png",
+            "type": "detail",
+            "path_url": "duoplus",
+            "redirect_link": "https://www.duoplus.cn/",
+            "local_logo": "/images/tools/duoplus.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/5bbY6m_36x36.png"
+          },
+          {
+            "tag": "免费试用",
+            "name": "kalodata",
+            "description": "TikTok电商数据分析与爆款挖掘神器",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/c6AF2C_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260121152851.png",
+            "type": "detail",
+            "path_url": "kalodata",
+            "redirect_link": "https://www.kalodata.com/",
+            "local_logo": "/images/tools/kalodata.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/c6AF2C_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260121152851.png"
+          },
+          {
+            "tag": "积分优惠",
+            "name": "TK云大师",
+            "description": "AI深度赋能TK矩阵管理系统",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/AAHbt3_%E7%94%BB%E6%9D%BF%201.jpg",
+            "type": "detail",
+            "path_url": "tkyundashi",
+            "redirect_link": "https://www.tkyds.com/",
+            "local_logo": "/images/tools/tkyundashi.jpg",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260121/AAHbt3_%E7%94%BB%E6%9D%BF%201.jpg"
+          },
+          {
+            "tag": "95折",
+            "name": "妙手ERP",
+            "description": "跨境多平台采集刊登与订单管理专家",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260129/m6DR8c_%E5%A6%99%E6%89%8BERP%20logo%2036X36.png",
+            "type": "link",
+            "path_url": "miaoshouerp",
+            "redirect_link": "https://www.91miaoshou.com/",
+            "local_logo": "/images/tools/miaoshouerp.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260129/m6DR8c_%E5%A6%99%E6%89%8BERP%20logo%2036X36.png"
+          },
+          {
+            "tag": "免费试用",
+            "name": "达人精灵",
+            "description": "TikTok海外红人搜索与联系方式挖掘",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260304/2M7szm_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260304144508.png",
+            "type": "link",
+            "path_url": "darenjingling",
+            "redirect_link": "https://www.kolsprite.com/",
+            "local_logo": "/images/tools/darenjingling.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260304/2M7szm_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260304144508.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🌟"
+  },
+  {
+    "navigate_id": 27,
+    "navigate_name": "跨境软件",
+    "list": [
+      {
+        "column_id": 39,
+        "column_name": "综合工具",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "Lagofast Game Booster",
+            "description": "降低游戏延迟、丢包、抖动、提升帧率",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261026/j67MDB_lagofast.png",
+            "type": "link",
+            "path_url": "Lagofast Game Booster",
+            "redirect_link": "https://www.lagofast.com/",
+            "local_logo": "/images/tools/Lagofast_Game_Booster.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261026/j67MDB_lagofast.png"
+          },
+          {
+            "tag": "",
+            "name": "Sixfast",
+            "description": "海外回国观看影音视频玩游戏加速工具",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261026/cweQGK_sixfast.png",
+            "type": "link",
+            "path_url": "Sixfast",
+            "redirect_link": "https://www.sixfast.com/",
+            "local_logo": "/images/tools/Sixfast.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261026/cweQGK_sixfast.png"
+          },
+          {
+            "tag": "",
+            "name": "TWT Chat智能客服",
+            "description": "AI 智能客服与实时聊天工具，免费试用",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260313/KTxr5p_chat.png",
+            "type": "link",
+            "path_url": "twtchatzhinengkefu",
+            "redirect_link": "https://www.twt.com/",
+            "local_logo": "/images/tools/twtchatzhinengkefu.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260313/KTxr5p_chat.png"
+          },
+          {
+            "tag": "",
+            "name": "SaleWisely",
+            "description": "免费的企业出海全渠道客户沟通平台，聚合在线聊天（livechat）、WhatsApp、Facebook Messenger、Instagram、Telegram、Line、Email、Wechat。",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260709/CT8j8z_salewisely.jpg",
+            "type": "link",
+            "path_url": "salewisely",
+            "redirect_link": "https://www.salewisely.com/",
+            "local_logo": "/images/tools/salewisely.jpg",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260709/CT8j8z_salewisely.jpg"
+          },
+          {
+            "tag": "",
+            "name": "BYKOL百口海外网红营销",
+            "description": "海外网红内容营销MCN新锐机构，专注亚马逊买家秀、红人视频、TikTok带货和站外推广。",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260126/d4MW3t_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260126103341.png",
+            "type": "link",
+            "path_url": "BYKOLbaikouhaiwaiyingxiao",
+            "redirect_link": "https://bykol.com/",
+            "local_logo": "/images/tools/BYKOLbaikouhaiwaiyingxiao.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260126/d4MW3t_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260126103341.png"
+          },
+          {
+            "tag": "",
+            "name": "独角兽翻译器",
+            "description": "聚合WhatsApp等实时聊天翻译工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250430/KGB67D_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250430163620.png",
+            "type": "detail",
+            "path_url": "dujiaoshoufanyiqi",
+            "redirect_link": "https://dujiaoshou.im/",
+            "local_logo": "/images/tools/dujiaoshoufanyiqi.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250430/KGB67D_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250430163620.png"
+          },
+          {
+            "tag": "",
+            "name": "vmcard虚拟卡",
+            "description": "跨境广告投放与海外支付虚拟信用卡",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250702/xWyj8s_0d0c08de-debf-4b77-97be-999463cebfa2.png",
+            "type": "link",
+            "path_url": "vmcardio",
+            "redirect_link": "https://www.vmcardio.com/",
+            "local_logo": "/images/tools/vmcardio.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250702/xWyj8s_0d0c08de-debf-4b77-97be-999463cebfa2.png"
+          },
+          {
+            "tag": "",
+            "name": "跨境电商独立站",
+            "description": "品牌出海建站、运营与推广指南",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250715/cZXcJR_2.jpg",
+            "type": "link",
+            "path_url": "2cshop",
+            "redirect_link": "https://www.2cshop.com/",
+            "local_logo": "/images/tools/2cshop.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250715/cZXcJR_2.jpg"
+          },
+          {
+            "tag": "",
+            "name": "店雷达1688跨境选品",
+            "description": "1688货源查找与利润分析工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250827/DTtDp3_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250827100235.png",
+            "type": "link",
+            "path_url": "dianleida",
+            "redirect_link": "https://dianleida.net/",
+            "local_logo": "/images/tools/dianleida.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250827/DTtDp3_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250827100235.png"
+          },
+          {
+            "tag": "",
+            "name": "Geeksend",
+            "description": "跨境电商邮件营销与追踪服务",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250901/rhRh3X_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250901143005.jpg",
+            "type": "link",
+            "path_url": "geeksend",
+            "redirect_link": "https://www.geeksend.com/",
+            "local_logo": "/images/tools/geeksend.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250901/rhRh3X_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250901143005.jpg"
+          },
+          {
+            "tag": "",
+            "name": "seeksem",
+            "description": "搜索引擎营销与关键词挖掘工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251125/kmXraC_seeksem.png",
+            "type": "link",
+            "path_url": "seeksem",
+            "redirect_link": "https://seeksem.com/",
+            "local_logo": "/images/tools/seeksem.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251125/kmXraC_seeksem.png"
+          },
+          {
+            "tag": "",
+            "name": "极客线索",
+            "description": "商机线索挖掘工具",
+            "logo_url": "https://www.ipdodo.com/_astro/极客线索.a92b7138.webp",
+            "type": "link",
+            "path_url": "geekleads",
+            "redirect_link": "https://www.geekleads.cn/",
+            "local_logo": "/images/tools/geekleads.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/极客线索.a92b7138.webp"
+          },
+          {
+            "tag": "",
+            "name": "鲁班",
+            "description": "跨境资源服务平台",
+            "logo_url": "https://www.ipdodo.com/_astro/鲁班.fa9226f6.webp",
+            "type": "link",
+            "path_url": "luban",
+            "redirect_link": "https://luban.bluemediagroup.cn/",
+            "local_logo": "/images/tools/luban.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/鲁班.fa9226f6.webp"
+          }
+        ]
+      },
+      {
+        "column_id": 38,
+        "column_name": "ERP软件",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "通途ERP",
+            "description": "跨境多平台刊登与订单管理系统",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/JMPkxR_75fd5bec76b15ec3f9881731c5488ed0.png",
+            "type": "detail",
+            "path_url": "tongtuerp",
+            "redirect_link": "https://www.tongtool.com/",
+            "local_logo": "/images/tools/tongtuerp.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/JMPkxR_75fd5bec76b15ec3f9881731c5488ed0.png"
+          },
+          {
+            "tag": "",
+            "name": "斑马ERP",
+            "description": "专注独立站与TikTok/Temu铺货SaaS",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/CQGjwH_08d56e5d049e5ea39934f3252db52042.png",
+            "type": "detail",
+            "path_url": "banmaerp",
+            "redirect_link": "https://www.banmaerp.com/",
+            "local_logo": "/images/tools/banmaerp.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/CQGjwH_08d56e5d049e5ea39934f3252db52042.png"
+          },
+          {
+            "tag": "",
+            "name": "店小秘ERP",
+            "description": "连接全球60+平台的一站式运营系统",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/HKjBk2_477bcb946a92381e8b7709fde184400f.png",
+            "type": "detail",
+            "path_url": "dianxiaomierp",
+            "redirect_link": "https://www.dianxiaomi.com/",
+            "local_logo": "/images/tools/dianxiaomierp.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/HKjBk2_477bcb946a92381e8b7709fde184400f.png"
+          },
+          {
+            "tag": "",
+            "name": "客优云ERP",
+            "description": "专注Shopee/Lazada东南亚市场运营",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/PJYdr7_b11582f0e0e62c45a71beaa44df9d918.png",
+            "type": "detail",
+            "path_url": "keyouyunerp",
+            "redirect_link": "https://www.keyouyun.com/",
+            "local_logo": "/images/tools/keyouyunerp.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/PJYdr7_b11582f0e0e62c45a71beaa44df9d918.png"
+          },
+          {
+            "tag": "",
+            "name": "旺销王ERP",
+            "description": "跨境多平台店铺营销与管理ERP",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250625/d6FpcZ_%E6%97%BA%E9%94%80%E7%8E%8Blogo%E9%BB%91%E8%89%B2.png",
+            "type": "link",
+            "path_url": "wangxiaowang",
+            "redirect_link": "https://www.wxwerp.com/",
+            "local_logo": "/images/tools/wangxiaowang.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250625/d6FpcZ_%E6%97%BA%E9%94%80%E7%8E%8Blogo%E9%BB%91%E8%89%B2.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🌐"
+  },
+  {
+    "navigate_id": 19,
+    "navigate_name": "指纹浏览器",
+    "list": [
+      {
+        "column_id": 30,
+        "column_name": "指纹浏览器",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "比特浏览器",
+            "description": "比特浏览器+云手机，轻松管理您的跨境大生意",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/r8j2fS_72x72.png",
+            "type": "link",
+            "path_url": "bitbrowser",
+            "redirect_link": "https://www.bitbrowser.cn/",
+            "local_logo": "/images/tools/bitbrowser.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/r8j2fS_72x72.png"
+          },
+          {
+            "tag": "",
+            "name": "Hubstudio",
+            "description": "免费的跨境电商多账号防关联浏览器",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/SyRjdt_logo.png",
+            "type": "link",
+            "path_url": "hubstudio",
+            "redirect_link": "https://www.hubstudio.cn/",
+            "local_logo": "/images/tools/hubstudio.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/SyRjdt_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "AdsPower",
+            "description": "TikTok出海多账号安全管理专家",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/DiDHzR_LOGO.png",
+            "type": "detail",
+            "path_url": "Adspower",
+            "redirect_link": "https://www.adspower.net/",
+            "local_logo": "/images/tools/Adspower.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/DiDHzR_LOGO.png"
+          },
+          {
+            "tag": "",
+            "name": "云登浏览器",
+            "description": "物理级环境隔离与固定IP解决商",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/Gydm8N_%E4%BA%91%E7%99%BB%E6%B5%8F%E8%A7%88%E5%99%A8.jpg",
+            "type": "link",
+            "path_url": "yunlogin",
+            "redirect_link": "https://www.yunlogin.com/",
+            "local_logo": "/images/tools/yunlogin.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/Gydm8N_%E4%BA%91%E7%99%BB%E6%B5%8F%E8%A7%88%E5%99%A8.jpg"
+          },
+          {
+            "tag": "指纹隔离",
+            "name": "寻答AI指纹浏览器",
+            "description": "集指纹环境隔离、AI智能操作、多账号管理于一体，让跨境电商运营更安全、更简单、更高效。",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261021/WTM8ZY_%E5%AF%BB%E7%AD%94ai.png",
+            "type": "link",
+            "path_url": "xundaAI",
+            "redirect_link": "https://www.xundago.com/",
+            "local_logo": "/images/tools/xundaAI.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261021/WTM8ZY_%E5%AF%BB%E7%AD%94ai.png"
+          },
+          {
+            "tag": "",
+            "name": "VMlogin",
+            "description": "虚拟多登浏览器与指纹保护专家",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/D8KR4R_logo.png",
+            "type": "link",
+            "path_url": "vmlogin",
+            "redirect_link": "https://www.vmlogin.us/",
+            "local_logo": "/images/tools/vmlogin.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/D8KR4R_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "火云浏览器",
+            "description": "新用户注册可享 50 个环境窗口首月免费体验活动",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250519/Xs7imz_logo.png",
+            "type": "link",
+            "path_url": "huoyun",
+            "redirect_link": "https://www.hotlogin.com/",
+            "local_logo": "/images/tools/huoyun.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250519/Xs7imz_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "智纹浏览器",
+            "description": "内核级指纹修改安全防护系统",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251204/e26ByB_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251204110527.png",
+            "type": "link",
+            "path_url": "zhiwen",
+            "redirect_link": "https://www.zwbro.com/",
+            "local_logo": "/images/tools/zhiwen.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251204/e26ByB_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251204110527.png"
+          },
+          {
+            "tag": "",
+            "name": "悦互联电商浏览器",
+            "description": "跨境电商专线网络与固定IP店铺管理",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251203/DiKWG3_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251203171348.jpg",
+            "type": "link",
+            "path_url": "yuehulian",
+            "redirect_link": "https://www.chinafic.com/",
+            "local_logo": "/images/tools/yuehulian.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251203/DiKWG3_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251203171348.jpg"
+          },
+          {
+            "tag": "",
+            "name": "花漾灵动",
+            "description": "RPA机器人与分身隔离技术专家",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/WMDPRJ_LOGO.png",
+            "type": "link",
+            "path_url": "huayang",
+            "redirect_link": "https://www.szdamai.com/",
+            "local_logo": "/images/tools/huayang.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/WMDPRJ_LOGO.png"
+          },
+          {
+            "tag": "",
+            "name": "MuLogin",
+            "description": "多登防关联浏览器与虚拟环境生成器",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/8fFAiM_logo.png",
+            "type": "link",
+            "path_url": "mulogin",
+            "redirect_link": "https://www.mulogin.com/",
+            "local_logo": "/images/tools/mulogin.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/8fFAiM_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "蜂巢浏览器",
+            "description": "沙盒隔离技术与团队协作平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250806/mHSiAd_logo.png",
+            "type": "link",
+            "path_url": "fengchao",
+            "redirect_link": "https://nestbrowser.com/",
+            "local_logo": "/images/tools/fengchao.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250806/mHSiAd_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "千帆浏览器",
+            "description": "店铺访问速度优化与多开管理",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/rcPjXR_logo(2).jpg",
+            "type": "link",
+            "path_url": "qianfan",
+            "redirect_link": "https://www.qflogin.com/",
+            "local_logo": "/images/tools/qianfan.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/rcPjXR_logo(2).jpg"
+          },
+          {
+            "tag": "",
+            "name": "OKBrowser",
+            "description": "轻量级隐私保护与反指纹追踪",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250811/JyfTKe_okb.jpg",
+            "type": "link",
+            "path_url": "okbrow",
+            "redirect_link": "https://okbrow.com/",
+            "local_logo": "/images/tools/okbrow.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250811/JyfTKe_okb.jpg"
+          },
+          {
+            "tag": "",
+            "name": "星火浏览器",
+            "description": "解决网络延迟与店铺登录卡顿",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251203/sXFGpk_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251203145728.png",
+            "type": "link",
+            "path_url": "xinghuo",
+            "redirect_link": "https://www.starlogin.cn/",
+            "local_logo": "/images/tools/xinghuo.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251203/sXFGpk_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251203145728.png"
+          },
+          {
+            "tag": "",
+            "name": "扇子指纹浏览器",
+            "description": "批量养号与群控自动化工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250901/aBhtcd_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250901100951.png",
+            "type": "link",
+            "path_url": "shanzi",
+            "redirect_link": "https://www.shanzi.com/",
+            "local_logo": "/images/tools/shanzi.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250901/aBhtcd_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250901100951.png"
+          },
+          {
+            "tag": "",
+            "name": "DICloak",
+            "description": "安全隔离浏览器",
+            "logo_url": "https://www.ipdodo.com/_astro/dicloak.cdebf2a0.webp",
+            "type": "link",
+            "path_url": "dicloak",
+            "redirect_link": "https://dicloak.com/",
+            "local_logo": "/images/tools/dicloak.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/dicloak.cdebf2a0.webp"
+          },
+          {
+            "tag": "",
+            "name": "MBBrowser",
+            "description": "多账号隔离浏览器",
+            "logo_url": "https://www.ipdodo.com/_astro/mbbrowser.d42b070e.webp",
+            "type": "link",
+            "path_url": "mbbrowser",
+            "redirect_link": "https://www.mbbrowser.com/",
+            "local_logo": "/images/tools/mbbrowser.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/mbbrowser.d42b070e.webp"
+          },
+          {
+            "tag": "",
+            "name": "GeeLark",
+            "description": "多账号协同工具",
+            "logo_url": "https://www.ipdodo.com/_astro/geelark.28d42b0b.webp",
+            "type": "link",
+            "path_url": "geelark",
+            "redirect_link": "https://www.geelark.com/",
+            "local_logo": "/images/tools/geelark.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/geelark.28d42b0b.webp"
+          },
+          {
+            "tag": "",
+            "name": "ixbrowser",
+            "description": "最具性价比的多账号防关联管理工具",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261020/7AiWY6_ixbrowser.png",
+            "type": "link",
+            "path_url": "ixbrowser浏览器",
+            "redirect_link": "https://ixbrowser.com/",
+            "local_logo": "/images/tools/ixbrowser___.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261020/7AiWY6_ixbrowser.png"
+          },
+          {
+            "tag": "",
+            "name": "Hidemyacc",
+            "description": "多账号安全管理解决方案",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261104/eaTJJd_logo-hidemyacc.png",
+            "type": "link",
+            "path_url": "Hidemyacc",
+            "redirect_link": "https://hidemyacc.com/zh/",
+            "local_logo": "/images/tools/Hidemyacc.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261104/eaTJJd_logo-hidemyacc.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🛡️"
+  },
+  {
+    "navigate_id": 20,
+    "navigate_name": "跨境导航站",
+    "list": [
+      {
+        "column_id": 31,
+        "column_name": "跨境导航站",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "风口星跨境门户",
+            "description": "跨境电商行业服务商聚合平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250506/R44TKN_logo.png",
+            "type": "link",
+            "path_url": "jinfengkou",
+            "redirect_link": "https://www.jinfengkou.com/",
+            "local_logo": "/images/tools/jinfengkou.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250506/R44TKN_logo.png"
+          },
+          {
+            "tag": "",
+            "name": "TT123",
+            "description": "TikTok跨境电商一站式网址导航",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/s8QC8w_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(2).jpg",
+            "type": "link",
+            "path_url": "tt123",
+            "redirect_link": "https://www.tt123.com/",
+            "local_logo": "/images/tools/tt123.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/s8QC8w_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(2).jpg"
+          },
+          {
+            "tag": "",
+            "name": "234跨境导航",
+            "description": "极简设计的高频卖家工具与网址入口",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/fhj8B5_logo(2)%20(1).jpg",
+            "type": "link",
+            "path_url": "234kuajing",
+            "redirect_link": "https://www.234.cn/",
+            "local_logo": "/images/tools/234kuajing.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/fhj8B5_logo(2)%20(1).jpg"
+          },
+          {
+            "tag": "",
+            "name": "见远领航",
+            "description": "跨境优质服务商与SaaS软件导航站",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/DT8hB3_logo(2)%20(2).jpg",
+            "type": "link",
+            "path_url": "jianyuan",
+            "redirect_link": "https://bewiser1.com/",
+            "local_logo": "/images/tools/jianyuan.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/DT8hB3_logo(2)%20(2).jpg"
+          },
+          {
+            "tag": "",
+            "name": "蘑菇跨境",
+            "description": "汇集黑科技工具与AI运营插件",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/F2rQr6_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(3).jpg",
+            "type": "link",
+            "path_url": "mogu",
+            "redirect_link": "https://www.amzmm.com/",
+            "local_logo": "/images/tools/mogu.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/F2rQr6_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(3).jpg"
+          },
+          {
+            "tag": "",
+            "name": "跨境万事屋",
+            "description": "跨境电商避坑指南与实操干货知识库",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/cGmXdG_%E6%AD%A3%E6%96%B9%E5%BD%A2logo.jpg",
+            "type": "link",
+            "path_url": "wanshiwu",
+            "redirect_link": "https://www.winsea123.com/",
+            "local_logo": "/images/tools/wanshiwu.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/cGmXdG_%E6%AD%A3%E6%96%B9%E5%BD%A2logo.jpg"
+          },
+          {
+            "tag": "",
+            "name": "隔壁导航",
+            "description": "覆盖跨境全产业链资源的综合性导航",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250424/BwGxfR_%E9%9A%94%E5%A3%81%E5%AF%BC%E8%88%AA.png",
+            "type": "link",
+            "path_url": "gebidh",
+            "redirect_link": "https://www.gebidh.com/",
+            "local_logo": "/images/tools/gebidh.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250424/BwGxfR_%E9%9A%94%E5%A3%81%E5%AF%BC%E8%88%AA.png"
+          },
+          {
+            "tag": "",
+            "name": "独角兽导航站",
+            "description": "独立站建站与海外广告投放的资源库",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250430/niixye_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250430163620.png",
+            "type": "link",
+            "path_url": "dujiaoshou",
+            "redirect_link": "https://www.dujiaoshou.ws/",
+            "local_logo": "/images/tools/dujiaoshou.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250430/niixye_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250430163620.png"
+          },
+          {
+            "tag": "",
+            "name": "大数跨境",
+            "description": "领先的跨境资源整合·信息共享平台。大数跨境的理念：开放·免费·创新·领导。",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260226/5e7XhX_%E5%A4%A7%E6%95%B0%E8%B7%A8%E5%A2%83.png",
+            "type": "link",
+            "path_url": "10100",
+            "redirect_link": "https://www.10100.com/",
+            "local_logo": "/images/tools/10100.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260226/5e7XhX_%E5%A4%A7%E6%95%B0%E8%B7%A8%E5%A2%83.png"
+          },
+          {
+            "tag": "",
+            "name": "蓝鲸跨境",
+            "description": "跨境资源导航站",
+            "logo_url": "https://www.ipdodo.com/_astro/蓝鲸跨境.d537cf54.webp",
+            "type": "link",
+            "path_url": "lanjingkuajing",
+            "redirect_link": "https://www.ljkj123.com/",
+            "local_logo": "/images/tools/lanjingkuajing.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/蓝鲸跨境.d537cf54.webp"
+          },
+          {
+            "tag": "",
+            "name": "爱跨境",
+            "description": "跨境资讯服务站",
+            "logo_url": "https://www.ipdodo.com/_astro/爱跨境.a753883b.webp",
+            "type": "link",
+            "path_url": "aikuajing",
+            "redirect_link": "https://www.ikj123.com/",
+            "local_logo": "/images/tools/aikuajing.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/爱跨境.a753883b.webp"
+          },
+          {
+            "tag": "",
+            "name": "向前论坛",
+            "description": "跨境卖家交流社区",
+            "logo_url": "https://www.ipdodo.com/_astro/向前论坛.83eec915.webp",
+            "type": "link",
+            "path_url": "xiangqianluntan",
+            "redirect_link": "https://cosmileonly.com/",
+            "local_logo": "/images/tools/xiangqianluntan.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/向前论坛.83eec915.webp"
+          },
+          {
+            "tag": "",
+            "name": "出海网",
+            "description": "企业跨境出海综合服务平台",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261020/AaEMNs_%E5%87%BA%E6%B5%B7%E7%BD%91.png",
+            "type": "link",
+            "path_url": "出海网",
+            "redirect_link": "https://www.chwang.com/",
+            "local_logo": "/images/tools/___.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261020/AaEMNs_%E5%87%BA%E6%B5%B7%E7%BD%91.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🧭"
+  },
+  {
+    "navigate_id": 18,
+    "navigate_name": "云手机",
+    "list": [
+      {
+        "column_id": 29,
+        "column_name": "云手机",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "VMOS Cloud",
+            "description": "云手机多开与安卓应用24小时托管",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/xkZKQ6_LOGO.png",
+            "type": "detail",
+            "path_url": "vmoscloud",
+            "redirect_link": "https://www.vmoscloud.com/zh/",
+            "local_logo": "/images/tools/vmoscloud.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/xkZKQ6_LOGO.png"
+          },
+          {
+            "tag": "",
+            "name": "TakeFlow云手机",
+            "description": "基于鲲图OS开发的海外社交媒体营销系统",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/S4BMrB_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260123173130.png",
+            "type": "link",
+            "path_url": "TakeFlow",
+            "redirect_link": "https://www.kuntuos.com/",
+            "local_logo": "/images/tools/TakeFlow.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260123/S4BMrB_%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20260123173130.png"
+          },
+          {
+            "tag": "",
+            "name": "湖南跨境云",
+            "description": "湖南跨境云为跨境企业提供云手机/云真机解决方案。",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20260108/aW5r6j_%E6%B9%96%E5%8D%97%E8%B7%A8%E5%A2%83%E4%BA%91.png",
+            "type": "link",
+            "path_url": "hunankuajingyun",
+            "redirect_link": "https://tradeyun.net/",
+            "local_logo": "/images/tools/hunankuajingyun.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20260108/aW5r6j_%E6%B9%96%E5%8D%97%E8%B7%A8%E5%A2%83%E4%BA%91.png"
+          }
+        ]
+      }
+    ],
+    "icon": "📱"
+  },
+  {
+    "navigate_id": 21,
+    "navigate_name": "网络检测",
+    "list": [
+      {
+        "column_id": 32,
+        "column_name": "网络检测",
+        "card_list": [
+          {
+            "tag": "站内精选",
+            "name": "IP 纯净度检测指南",
+            "description": "手把手教你检测 IP 伪装度、原生双 ISP、欺诈分与 DNS 泄漏排查",
+            "logo_url": "/favicon.jpg",
+            "local_logo": "/favicon.jpg",
+            "type": "internal",
+            "path_url": "iptest",
+            "redirect_link": "/article/iptest/"
+          },
+          {
+            "tag": "线路实测",
+            "name": "出海网络测速解析",
+            "description": "BGP 中转与 IPLC/IEPL 专线全对比，看懂晚高峰真实吞吐与抖动",
+            "logo_url": "/favicon.jpg",
+            "local_logo": "/favicon.jpg",
+            "type": "internal",
+            "path_url": "network-analysis",
+            "redirect_link": "/article/network-analysis/"
+          },
+          {
+            "tag": "必读字典",
+            "name": "网络行业黑话字典",
+            "description": "从直连、中转、IPLC 到欺诈分与住宅 IP，一文速查所有专业术语",
+            "logo_url": "/favicon.jpg",
+            "local_logo": "/favicon.jpg",
+            "type": "internal",
+            "path_url": "vpscant",
+            "redirect_link": "/article/vpscant/"
+          },
+          {
+            "tag": "",
+            "name": "IPIPseek",
+            "description": "高精度IP地理位置与风险查询工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250319/weRAHC_%E6%9C%AA%E5%91%BD%E5%90%8D(6).jpg",
+            "type": "link",
+            "path_url": "ipipseek",
+            "redirect_link": "https://www.ipipseek.com/",
+            "local_logo": "/images/tools/ipipseek.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250319/weRAHC_%E6%9C%AA%E5%91%BD%E5%90%8D(6).jpg"
+          },
+          {
+            "tag": "",
+            "name": "IPinfo",
+            "description": "企业级IP地址数据分析与API服务商",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250319/6XHd48_%E6%9C%AA%E5%91%BD%E5%90%8D(6).png",
+            "type": "link",
+            "path_url": "ipinfo",
+            "redirect_link": "https://ipinfo.io/",
+            "local_logo": "/images/tools/ipinfo.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250319/6XHd48_%E6%9C%AA%E5%91%BD%E5%90%8D(6).png"
+          },
+          {
+            "tag": "",
+            "name": "IP检测",
+            "description": "IP属性检测工具",
+            "logo_url": "https://www.ipdodo.com/_astro/ip检测.7e01b618.webp",
+            "type": "link",
+            "path_url": "ipjiance",
+            "redirect_link": "https://ipjiance.cn/",
+            "local_logo": "/images/tools/ipjiance.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/ip检测.7e01b618.webp"
+          },
+          {
+            "tag": "",
+            "name": "BrowserScan",
+            "description": "浏览器环境检测工具",
+            "logo_url": "https://www.ipdodo.com/_astro/BrowserScan.dfe3c341.webp",
+            "type": "link",
+            "path_url": "browserscan",
+            "redirect_link": "https://www.browserscan.net/zh/",
+            "local_logo": "/images/tools/browserscan.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/BrowserScan.dfe3c341.webp"
+          },
+          {
+            "tag": "",
+            "name": "ToDetect",
+            "description": "专业IP检测工具，一键检测IP纯净度",
+            "logo_url": "https://static.ipdodo.com/promohub/prod/ads/card/20261106/atrtiT_To%20Detect%20logo.png",
+            "type": "link",
+            "path_url": "ToDetect",
+            "redirect_link": "https://www.todetect.cn/ip/",
+            "local_logo": "/images/tools/ToDetect.png",
+            "original_logo": "https://static.ipdodo.com/promohub/prod/ads/card/20261106/atrtiT_To%20Detect%20logo.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🔬"
+  },
+  {
+    "navigate_id": 23,
+    "navigate_name": "矩阵运营",
+    "list": [
+      {
+        "column_id": 34,
+        "column_name": "群控工具",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "BIAI云控",
+            "description": "AI驱动的社交媒体自动化群控系统",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/kEXEhP_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(4).jpg",
+            "type": "link",
+            "path_url": "biaibiai",
+            "redirect_link": "https://www.biaibiai.com/",
+            "local_logo": "/images/tools/biaibiai.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/kEXEhP_%E6%9C%AA%E5%91%BD%E5%90%8D(1)(10)%20(4).jpg"
+          },
+          {
+            "tag": "",
+            "name": "矩媒",
+            "description": "内容矩阵运营工具",
+            "logo_url": "https://www.ipdodo.com/_astro/矩媒.85472958.webp",
+            "type": "link",
+            "path_url": "jumei",
+            "redirect_link": "https://www.jumei.ai/",
+            "local_logo": "/images/tools/jumei.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/矩媒.85472958.webp"
+          }
+        ]
+      }
+    ],
+    "icon": "🚀"
+  },
+  {
+    "navigate_id": 24,
+    "navigate_name": "投屏工具",
+    "list": [
+      {
+        "column_id": 35,
+        "column_name": "投屏工具",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "来喜投屏",
+            "description": "手机多设备高清实时投屏专家",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/fBAaXy_laixilogo-64x64px.png",
+            "type": "detail",
+            "path_url": "laixitouping",
+            "redirect_link": "https://www.laixi.app/",
+            "local_logo": "/images/tools/laixitouping.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/fBAaXy_laixilogo-64x64px.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🖥️"
+  },
+  {
+    "navigate_id": 25,
+    "navigate_name": "TikTok工具",
+    "list": [
+      {
+        "column_id": 36,
+        "column_name": "TikTok工具",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "FastTK",
+            "description": "跨境出海虚拟商品交易平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/SriStj_64%EF%BC%9A64px.png",
+            "type": "link",
+            "path_url": "fasttk",
+            "redirect_link": "https://www.fasttk.com/",
+            "local_logo": "/images/tools/fasttk.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/SriStj_64%EF%BC%9A64px.png"
+          },
+          {
+            "tag": "",
+            "name": "TGX Account",
+            "description": "Telegram账号批量管理与营销自动化",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251205/QZTm8P_tgx.png",
+            "type": "link",
+            "path_url": "tgxaccount",
+            "redirect_link": "https://www.tgxaccount.com/",
+            "local_logo": "/images/tools/tgxaccount.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20251205/QZTm8P_tgx.png"
+          },
+          {
+            "tag": "",
+            "name": "海多客",
+            "description": "东南亚最全跨境业务一站式服务平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/BBXRaK_%E6%B5%B7%E5%A4%9A%E5%AE%A2%E4%B8%AD%E8%8B%B1%E6%96%87.com%E6%96%B9%E9%80%8F%E6%98%8E.png",
+            "type": "detail",
+            "path_url": "haiduoke",
+            "redirect_link": "https://www.seadocker.com/",
+            "local_logo": "/images/tools/haiduoke.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/prod/ads/card/20250217/BBXRaK_%E6%B5%B7%E5%A4%9A%E5%AE%A2%E4%B8%AD%E8%8B%B1%E6%96%87.com%E6%96%B9%E9%80%8F%E6%98%8E.png"
+          },
+          {
+            "tag": "",
+            "name": "MythSocial",
+            "description": "社交媒体矩阵自动化运营平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250414/jpA5ZR_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250414160638.png",
+            "type": "link",
+            "path_url": "mythsocial",
+            "redirect_link": "http://mythsocial.com/",
+            "local_logo": "/images/tools/mythsocial.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250414/jpA5ZR_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250414160638.png"
+          },
+          {
+            "tag": "",
+            "name": "ACC海外账号",
+            "description": "海外平台成品号交易资源",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/SPsED3_Buyaacc.png",
+            "type": "link",
+            "path_url": "acc",
+            "redirect_link": "https://www.buyaacc.com/",
+            "local_logo": "/images/tools/acc.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/SPsED3_Buyaacc.png"
+          },
+          {
+            "tag": "",
+            "name": "外贸号外",
+            "description": "外贸社媒账号资源与营销推广服务",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/ciY2BG_Waimaohw.png",
+            "type": "link",
+            "path_url": "waimaohaowai",
+            "redirect_link": "https://www.waimaohw.com/",
+            "local_logo": "/images/tools/waimaohaowai.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250423/ciY2BG_Waimaohw.png"
+          },
+          {
+            "tag": "",
+            "name": "EchoTik",
+            "description": "TikTok数据分析工具",
+            "logo_url": "https://www.ipdodo.com/_astro/echotik.eee0c9c0.webp",
+            "type": "link",
+            "path_url": "echotik",
+            "redirect_link": "https://echotik.live/",
+            "local_logo": "/images/tools/echotik.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/echotik.eee0c9c0.webp"
+          }
+        ]
+      }
+    ],
+    "icon": "🎵"
+  },
+  {
+    "navigate_id": 26,
+    "navigate_name": "跨境电商平台",
+    "list": [
+      {
+        "column_id": 37,
+        "column_name": "北美",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "shein（希音）",
+            "description": "全球快时尚电商平台与商家合作入口",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250324/EPiENm_%E4%B8%8B%E8%BD%BD.jpeg",
+            "type": "detail",
+            "path_url": "shein",
+            "redirect_link": "https://www.shein.com.hk/",
+            "local_logo": "/images/tools/shein.jpeg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250324/EPiENm_%E4%B8%8B%E8%BD%BD.jpeg"
+          },
+          {
+            "tag": "",
+            "name": "Ueeshop",
+            "description": "独立站快速建站与运营SaaS平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250326/Dw3PiX_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250326152121.png",
+            "type": "link",
+            "path_url": "ueeshop",
+            "redirect_link": "https://www.ueeshop.com/",
+            "local_logo": "/images/tools/ueeshop.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250326/Dw3PiX_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250326152121.png"
+          },
+          {
+            "tag": "",
+            "name": "Petsmart",
+            "description": "北美大型宠物用品零售商",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/E5ZMZK_9c3de0577c31071df4a0da4f0aa0b48c.jpg",
+            "type": "detail",
+            "path_url": "petsmart",
+            "redirect_link": "https://www.petsmart.com/",
+            "local_logo": "/images/tools/petsmart.jpg",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250328/E5ZMZK_9c3de0577c31071df4a0da4f0aa0b48c.jpg"
+          }
+        ]
+      }
+    ],
+    "icon": "🛒"
+  },
+  {
+    "navigate_id": 28,
+    "navigate_name": "跨境服务",
+    "list": [
+      {
+        "column_id": 40,
+        "column_name": "广告代理",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "飞书互动",
+            "description": "跨境企业协作与客户沟通工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250331/drQYw3_f1cf34dc0f488d8f3f4f949ed0e5231a.png",
+            "type": "detail",
+            "path_url": "feishuhudong",
+            "redirect_link": "https://www.meetsocial.com/",
+            "local_logo": "/images/tools/feishuhudong.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250331/drQYw3_f1cf34dc0f488d8f3f4f949ed0e5231a.png"
+          },
+          {
+            "tag": "",
+            "name": "Facebook官方代理",
+            "description": "Facebook跨境广告官方代理服务平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250331/FJcPFJ_fc0ee66a47f73f0cf072ebb342270469.png",
+            "type": "detail",
+            "path_url": "facebook",
+            "redirect_link": "https://reachtheworldonfacebook.com/",
+            "local_logo": "/images/tools/facebook.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250331/FJcPFJ_fc0ee66a47f73f0cf072ebb342270469.png"
+          },
+          {
+            "tag": "",
+            "name": "Pipi",
+            "description": "跨境资源服务平台",
+            "logo_url": "https://www.ipdodo.com/_astro/pipi.f79c1dd3.webp",
+            "type": "link",
+            "path_url": "pipi",
+            "redirect_link": "http://ppfacebook.com/",
+            "local_logo": "/images/tools/pipi.webp",
+            "original_logo": "https://www.ipdodo.com/_astro/pipi.f79c1dd3.webp"
+          }
+        ]
+      }
+    ],
+    "icon": "🤝"
+  },
+  {
+    "navigate_id": 29,
+    "navigate_name": "跨境工具",
+    "list": [
+      {
+        "column_id": 41,
+        "column_name": "图片制作",
+        "card_list": [
+          {
+            "tag": "",
+            "name": "TinyPNG",
+            "description": "智能图片压缩与优化工具",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250403/tr4xBb_86f1141cb1d69441ea430aca14794f7b.png",
+            "type": "detail",
+            "path_url": "tinypng",
+            "redirect_link": "https://tinypng.com/",
+            "local_logo": "/images/tools/tinypng.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250403/tr4xBb_86f1141cb1d69441ea430aca14794f7b.png"
+          },
+          {
+            "tag": "",
+            "name": "稿定设计",
+            "description": "电商设计与营销海报在线制作平台",
+            "logo_url": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250403/Hd4X7J_3b3d1121c305a15764ca35262b31c118.png",
+            "type": "detail",
+            "path_url": "gaodingsheji",
+            "redirect_link": "https://www.gaoding.com/",
+            "local_logo": "/images/tools/gaodingsheji.png",
+            "original_logo": "http://ipdodo-online-static.oss-cn-shanghai.aliyuncs.com/promohub/prod/ads/card/20250403/Hd4X7J_3b3d1121c305a15764ca35262b31c118.png"
+          }
+        ]
+      }
+    ],
+    "icon": "🎨"
+  }
+]
