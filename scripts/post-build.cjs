@@ -133,6 +133,38 @@ if (fs.existsSync(keyFileSource)) {
   console.log(`[post-build] 成功同步 IndexNow 验证文件: ${indexNowKey}.txt`);
 }
 
+function fixImageAltTags(dir) {
+  let count = 0;
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  for (const entry of entries) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      count += fixImageAltTags(full);
+    } else if (entry.isFile() && entry.name.endsWith('.html')) {
+      let html = fs.readFileSync(full, 'utf8');
+      const original = html;
+      html = html.replace(/<img\b([^>]*?src=["'][^"']*pushlab-logo\.jpg["'][^>]*?)>/gi, (match) => {
+        if (/alt=""/i.test(match) || /alt=''/i.test(match)) {
+          return match.replace(/alt=(["'])["']/i, 'alt=$1推手 · PushLab$1');
+        } else if (/\balt\b(?!\s*=)/i.test(match)) {
+          return match.replace(/\balt\b/i, 'alt="推手 · PushLab"');
+        } else if (!/\balt=/i.test(match)) {
+          return match.replace('<img', '<img alt="推手 · PushLab"');
+        }
+        return match;
+      });
+      if (html !== original) {
+        fs.writeFileSync(full, html, 'utf8');
+        count++;
+      }
+    }
+  }
+  return count;
+}
+
+const fixedAlts = fixImageAltTags(distDir);
+console.log(`[post-build] 成功修复 ${fixedAlts} 个 HTML 文件中的 Logo 图片 Alt 属性！`);
+
 const rootDistDir = path.join(projectRoot, 'dist');
 if (fs.existsSync(rootDistDir)) {
   fs.rmSync(rootDistDir, { recursive: true, force: true });

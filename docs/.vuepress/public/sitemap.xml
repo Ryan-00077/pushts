@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pushts.com/</loc>
-    <lastmod>2026-11-11T12:28:49.234Z</lastmod>
+    <lastmod>2026-11-19T11:06:14.401Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -176,25 +176,25 @@
   </url>
   <url>
     <loc>https://pushts.com/blog/</loc>
-    <lastmod>2026-11-11T12:28:49.234Z</lastmod>
+    <lastmod>2026-11-19T11:06:14.401Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
     <loc>https://pushts.com/blog/tags/</loc>
-    <lastmod>2026-11-11T12:28:49.234Z</lastmod>
+    <lastmod>2026-11-19T11:06:14.401Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>
   <url>
     <loc>https://pushts.com/blog/archives/</loc>
-    <lastmod>2026-11-11T12:28:49.234Z</lastmod>
+    <lastmod>2026-11-19T11:06:14.401Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pushts.com/blog/categories/</loc>
-    <lastmod>2026-11-11T12:28:49.234Z</lastmod>
+    <lastmod>2026-11-19T11:06:14.401Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.50</priority>
   </url>

@@ -55,7 +55,10 @@ const site2SidebarItems = [
 ]
 
 export default (defineThemeConfig as any)({
-  logo: '/pushlab-logo.jpg',
+  logo: {
+    src: '/pushlab-logo.jpg',
+    alt: '推手 · PushLab',
+  },
   profile: {
     avatar: '/pushlab-logo.jpg',
     name: '推手 · PushLab',
