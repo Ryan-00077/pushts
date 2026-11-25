@@ -45,6 +45,7 @@ const site2SidebarItems = [
     items: [
       { text: "📝 多媒体运营指南合集", link: "/essays/" },
       { text: "【直播】海外跨境直播网络专线解决方案", link: "/article/tiktok-shop-network/" },
+      { text: "【推流】OBS 跨境直播推流防丢帧调优", link: "/article/obs-streaming-network/" },
       { text: "【支付】独立站海外收单破局与风控排查", link: "/article/paypal-stripe-risk/" },
       { text: "【社媒】Telegram +86 解私聊与双向限制", link: "/article/telegram-anti-ban/" },
       { text: "【社媒】X 蓝标认证与创作者分成提现", link: "/article/x-blue-verification/" },

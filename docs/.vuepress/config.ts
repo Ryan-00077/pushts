@@ -7,7 +7,7 @@ export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
   title: '推手 · PushLab',
-  description: '推手 · PushLab (pushts.com) - 海外社媒推手与创作者出海网络专精：高吞吐低抖动推流专线评测、Telegram +86解私聊防封指南、X蓝标认证与创作者分成提现网络隔离实操。',
+  description: '推手 · PushLab (pushts.com) 专注于海外社媒矩阵与出海创作者网络实战：深度评测低延迟高吞吐跨境推流专线、OBS 直播零丢帧调优，提供 Telegram +86 解私聊与防封方案、X 蓝标认证与收益分成网络隔离、YouTube 多账号防关联 SOP，助出海自媒体与跨境 MCN 构筑高可用网络护城河。',
 
   head: [
     ['link', { rel: 'icon', type: 'image/jpeg', href: '/pushlab-logo.jpg' }],
